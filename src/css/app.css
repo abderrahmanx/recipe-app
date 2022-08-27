@@ -1,0 +1,10 @@
+@import'recipes.css';
+@import'edit.css';
+.main{
+display: flex;
+justify-content: space-between;
+}
+.right-side{
+    display: flex;
+    justify-content: center;
+}
